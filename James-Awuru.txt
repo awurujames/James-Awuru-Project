@@ -1,0 +1,62 @@
+Answer No. 1  
+    Git is a revision control system, a tool to manage your     source code histrory
+     while GitHub is a hosting service for Git repositories
+
+Answer No.2
+    Some of the benefit of benefits of using version control     system are:
+    1. It helps to manage codes for multiple projects 
+    2. It helps to streamlining the developement process
+    3. Version control system helps to control and saves all        changes    in a repository
+    4. Using Version control system helps developers work      together on    code and separate thier task through branches
+    5. It can also reduce errors and unintended consequences to a      great extent
+
+Answer No.3
+
+    High level Language
+
+Answer 4
+
+    Gitlab
+    BitBucket
+    SourceForge
+
+Answer 5
+     Remote Command in Git A git remote command is used to make      the remote connections such as connecting a Git local      repository with GitHub remote repository.
+
+Answer 6
+    1. create a new repository in the github
+    2. Select a drive in gitbash
+    3. Create a folder using 'mkdir'
+    4. Creat a file using 'touch'
+    5. Use 'Echo to write on the file
+    6. use 'git Init' to read changes made to project folder
+    7. Use 'Status' to check the file that has been edited
+    8. Use Add. to add all
+    9. git commit -m "first commit" 
+   10. git remote add origin https://github.com/awurujames/James-     Awuru-Project.git
+   11. git push -u origin master to lunch to the online site
+
+     Git repository is used to save chages in the project. It can      be created locally or remotely.
+
+Answer 7
+   push command
+   git cmmit
+
+Answer 8
+     Git is a distributed version-control system for tracking      changes in source code during software development. It is      designed  for coodinting work among programmers and also to      track changes in any set of files.
+
+Answer 9
+    Git directory is used to to creat folders, file etc in Git
+
+Answer 10
+    Since directory is the folder and/or file, when deleted, one     would lose of the projects history. It will no longer be     under version control.
+
+     
+
+    
+
+    
+
+
+
+   
